@@ -1,0 +1,19 @@
+* 参考链接
+
+-[[http://www.bidsky.com/sys/OKBridge2over1.htm][二盖一]]
+
+-[[http://www.bidsky.com/sys/SAYCPartOne.htm#1m][黄卡]]
+* 开叫
+- [[开叫/多功能二方片及空白叫品的补充.org][多功能 2 方片]]
+
+- [[/home/weiss/Documents/Boardgames/bridge/开叫/其余.org][其余]]
+* 一阶花色应叫
+
+- [[一阶花色应叫/被阻击干扰.org][被阻击干扰]]
+
+- [[一阶花色应叫/其余.org][其余]]
+
+* 1nt 的应叫
+- [[1nt的应叫/1nt后的防御叫法.org]]
+* 干扰叫法
+- [[干扰叫法 /1nt的干扰.org][1nt的干扰]]
