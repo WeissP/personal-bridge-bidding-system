@@ -3,6 +3,9 @@
 -[[http://www.bidsky.com/sys/OKBridge2over1.htm][二盖一]]
 
 -[[http://www.bidsky.com/sys/SAYCPartOne.htm#1m][黄卡]]
+=======
+-[[http://www.bidsky.com/sys/SAYCPartOne.htm][黄卡]]
+>>>>>>> 05dd8d8b1a2ee45b76ba1f042e4b9a602d69f891
 
 * 开叫
 - [[开叫/多功能二方片及空白叫品的补充.org][多功能 2 方片]]
